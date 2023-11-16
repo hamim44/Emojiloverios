@@ -13,7 +13,7 @@ enum Emoji: String, CaseIterable {
     case confetti = "🎉"
     case cake = "🎂"
     case sleep = "😴"
-   
+    case night = "😪"
 }
 
 
