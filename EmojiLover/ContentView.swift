@@ -14,6 +14,7 @@ enum Emoji: String, CaseIterable {
     case cake = "🎂"
     case sleep = "😴"
     case night = "😪"
+    case hi = "l"
 }
 
 
@@ -34,6 +35,7 @@ struct ContentView: View {
             }
             .navigationTitle("Emoji Lover!")
             .padding()
+            Spacer()
         }
     }
 }
